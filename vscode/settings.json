@@ -1,0 +1,8 @@
+{
+    // This file goes in ~/.config/Code/User/settings.json
+    "editor.minimap.enabled": false,
+    "window.titleBarStyle": "custom",
+    "editor.cursorStyle": "block",
+    "editor.glyphMargin": false,
+    "editor.folding": false
+}
